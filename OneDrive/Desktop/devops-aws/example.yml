@@ -1,0 +1,21 @@
+#scalars
+name: swapna
+location: hyderabad
+profissional: IT
+#list
+Hobbies:
+  -reading books
+  -watching tv
+  -listening music
+#mapping
+Favoritefoods:
+    fruits: apple
+    juice : orange
+#multiscalars
+whoisyourfavoritegod: |
+    my favorite god is lord shiva he is my father
+    and he is also known for his meditation,symbolizing
+    inner peace and spiritual growth, and shiva is the 
+    supreme lord who creates, protects and transforms the 
+    universe
+    
